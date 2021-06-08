@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VictorOlly
+- 👀 I’m interested in enter the programming market
+- 🌱 I’m currently learning Python  
+- 💞️ I’m looking to collaborate on any project based on Python
+- 📫 You can reach me on my personal e-mail, wich is victor.olly@protonmail.com
